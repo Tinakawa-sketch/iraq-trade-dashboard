@@ -1,4 +1,4 @@
-# 🇮🇶 Iraq Trade Dashboard
+# Iraq Trade Dashboard
 # منصة التجارة العراقية
 
 A full agentic AI-powered trade intelligence platform for Iraqi merchants, investors, and policymakers. Features 10 years of trade data (2015-2024), 34 products with HS codes, 15+ partner countries, a 6-agent AI pipeline, auto risk alerts, and bilingual Arabic/English support.
